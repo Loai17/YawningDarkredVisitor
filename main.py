@@ -49,4 +49,6 @@ city_info = {"new_york" : { "mayor" : "Bill DeBlasio",
 print(city_info["chicago"]["mayor"])
 print(len(city_info)) 
 hi = "bye"
+dict1 = city_info
 print(dict1)
+print("updated the version")
